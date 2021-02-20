@@ -1,4 +1,4 @@
-# Reconnaissance Expressions Faciales Elhlou Khalil & Madane Abdellah
+# Reconnaissance Expressions Faciales Elhlou Khalil & Madane Abdellah (ESI)
 
 Facial expression recognition based on deep learning (REF) has received a lot of attention in recent years. The development of a model capable of identifying emotions from human facial expressions with great accuracy has become a major focus of interest. In a recent study of the Facial Recognition Technology (FERET) dataset, Sajid and al. discovered the impact of facial asymmetry as a marker of age estimation. Their findings indicate that the asymmetry of the right face is better than that of the left face. The appearance of the facial pose remains an important problem for facial detection. There are many problems such as excessive make-up, pose and expression that are resolved using convolutional networks. 
 
